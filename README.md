@@ -1,1 +1,3 @@
 # CursoIA
+
+Instrucciones de instalación
